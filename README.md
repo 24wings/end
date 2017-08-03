@@ -1,13 +1,15 @@
 # ender 端工程师
 ---
 
-学习路线
-* 全栈
-    * js -> es6->ts->nodejs -> express+nodejs+mongodb
-* web前端+移动端 
-    * js->es6->ts->angular2->ionic2+cordova
+技能列表
+* javascript
+* es2015
+* typescript 
+* nodejs -> express+mongoose 
 
 
 
-* [js](./js/README.md)
-* [es6](./es6/README.md)
+
+线上项目 性趣味
+
+![狠享赚](./images/qrcode.jpg)
